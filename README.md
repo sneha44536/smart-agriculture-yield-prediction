@@ -2,9 +2,7 @@
 Machine Learning project using Random Forest to predict crop yield.
 # 🌾 Smart Agriculture Yield Prediction Using Machine Learning (Random Forest)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF0000?style=for-the-badge) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FF8C00?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-800080?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-FF69B4?style=for-the-badge) ![Data Science](https://img.shields.io/badge/Data%20Science-00BFFF?style=for-the-badge) ![PyCharm](https://img.shields.io/badge/PyCharm-32CD32?style=for-the-badge&logo=pycharm&logoColor=black)
----
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF0000?style=for-the-badge) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FF8C00?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-800080?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-FF69B4?style=for-the-badge) ![Data Science](https://img.shields.io/badge/Data%20Science-00BFFF?style=for-the-badge) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 # 📌 Project Overview
 
 The **Smart Agriculture Yield Prediction System** is a Machine Learning project designed to predict crop yield based on real-world agricultural factors such as crop type, season, state, area, fertilizer usage, and pesticide usage.
