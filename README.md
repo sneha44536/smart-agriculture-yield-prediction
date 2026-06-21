@@ -2,14 +2,21 @@
 Machine Learning project using Random Forest to predict crop yield.
 # 🌾 Smart Agriculture Yield Prediction Using Machine Learning (Random Forest)
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-RandomForest-green?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E4A62?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=marun)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+![Data Science](https://img.shields.io/badge/Data%20Science-00A8E8?style=for-the-badge)
+
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
 ---
 
 # 📌 Project Overview
