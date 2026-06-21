@@ -9,7 +9,7 @@ Machine Learning project using Random Forest to predict crop yield.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E4A62?style=for-the-badge)
 ![Data Science](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)
-
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ---
 
 # 📌 Project Overview
