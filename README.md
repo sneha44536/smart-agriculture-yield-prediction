@@ -11,6 +11,8 @@ The system is built using **Random Forest Regressor**, which is a powerful ensem
 
 This project demonstrates how **AI and Machine Learning can be used in agriculture** to help farmers and policymakers make data-driven decisions for better crop production planning.
 
+
+
 ---
 
 # 🚀 Problem Statement
